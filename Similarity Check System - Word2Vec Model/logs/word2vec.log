@@ -1,0 +1,36 @@
+2025-04-12 16:36:03,522 - INFO - Loaded and tokenized 1000 documents
+2025-04-12 16:36:03,539 - INFO - Corpus stats: {'total_words': 141771, 'unique_words': 13283, 'most_common': [('the', 6028), (',', 4931), ('.', 4411), ('of', 3278), ('to', 3050), ('in', 2584), ('and', 2275), ('said', 2222), ('a', 2032), ('mln', 1844)]}
+2025-04-12 16:36:03,542 - INFO - collecting all words and their counts
+2025-04-12 16:36:03,543 - INFO - PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+2025-04-12 16:36:03,559 - INFO - collected 13283 word types from a corpus of 141771 raw words and 1000 sentences
+2025-04-12 16:36:03,560 - INFO - Creating a fresh vocabulary
+2025-04-12 16:36:03,574 - INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=5 retains 2933 unique words (22.08% of original 13283, drops 10350)', 'datetime': '2025-04-12T16:36:03.574071', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'prepare_vocab'}
+2025-04-12 16:36:03,579 - INFO - Word2Vec lifecycle event {'msg': 'effective_min_count=5 leaves 125218 word corpus (88.32% of original 141771, drops 16553)', 'datetime': '2025-04-12T16:36:03.579379', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'prepare_vocab'}
+2025-04-12 16:36:03,594 - INFO - deleting the raw counts dictionary of 13283 items
+2025-04-12 16:36:03,595 - INFO - sample=0.001 downsamples 53 most-common words
+2025-04-12 16:36:03,596 - INFO - Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 91090.1724356322 word corpus (72.7%% of prior 125218)', 'datetime': '2025-04-12T16:36:03.596059', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'prepare_vocab'}
+2025-04-12 16:36:03,616 - INFO - estimated required memory for 2933 words and 100 dimensions: 3812900 bytes
+2025-04-12 16:36:03,618 - INFO - resetting layer weights
+2025-04-12 16:36:03,620 - INFO - Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2025-04-12T16:36:03.619478', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'build_vocab'}
+2025-04-12 16:36:03,622 - INFO - Word2Vec lifecycle event {'msg': 'training model with 4 workers on 2933 vocabulary and 100 features, using sg=1 hs=0 sample=0.001 negative=5 window=5 shrink_windows=True', 'datetime': '2025-04-12T16:36:03.622398', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'train'}
+2025-04-12 16:36:03,749 - INFO - EPOCH 0: training on 141771 raw words (90979 effective words) took 0.1s, 734205 effective words/s
+2025-04-12 16:36:03,877 - INFO - EPOCH 1: training on 141771 raw words (91263 effective words) took 0.1s, 728642 effective words/s
+2025-04-12 16:36:04,005 - INFO - EPOCH 2: training on 141771 raw words (90912 effective words) took 0.1s, 728995 effective words/s
+2025-04-12 16:36:04,134 - INFO - EPOCH 3: training on 141771 raw words (91154 effective words) took 0.1s, 720599 effective words/s
+2025-04-12 16:36:04,262 - INFO - EPOCH 4: training on 141771 raw words (91023 effective words) took 0.1s, 726092 effective words/s
+2025-04-12 16:36:04,389 - INFO - EPOCH 5: training on 141771 raw words (91333 effective words) took 0.1s, 735964 effective words/s
+2025-04-12 16:36:04,519 - INFO - EPOCH 6: training on 141771 raw words (91265 effective words) took 0.1s, 724025 effective words/s
+2025-04-12 16:36:04,651 - INFO - EPOCH 7: training on 141771 raw words (91031 effective words) took 0.1s, 710001 effective words/s
+2025-04-12 16:36:04,779 - INFO - EPOCH 8: training on 141771 raw words (91036 effective words) took 0.1s, 726394 effective words/s
+2025-04-12 16:36:04,906 - INFO - EPOCH 9: training on 141771 raw words (91157 effective words) took 0.1s, 730674 effective words/s
+2025-04-12 16:36:04,908 - INFO - Word2Vec lifecycle event {'msg': 'training on 1417710 raw words (911153 effective words) took 1.3s, 708977 effective words/s', 'datetime': '2025-04-12T16:36:04.908432', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'train'}
+2025-04-12 16:36:04,908 - INFO - Word2Vec lifecycle event {'params': 'Word2Vec<vocab=2933, vector_size=100, alpha=0.025>', 'datetime': '2025-04-12T16:36:04.908432', 'gensim': '4.3.3', 'python': '3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26100-SP0', 'event': 'created'}
+2025-04-12 16:36:04,909 - INFO - Word2Vec model trained successfully
+2025-04-12 16:36:04,925 - INFO - Found 5 similar words for 'market'
+2025-04-12 16:36:04,926 - INFO - Found 5 similar words for 'stock'
+2025-04-12 16:36:04,927 - INFO - Found 5 similar words for 'trade'
+2025-04-12 16:36:04,928 - INFO - Found 5 similar words for 'economy'
+2025-04-12 16:36:04,930 - INFO - Found 5 similar words for 'bank'
+2025-04-12 16:36:04,934 - INFO - Report saved to output/similarity_report.csv
+2025-04-12 16:36:04,935 - INFO - Stats saved to output/corpus_stats.csv
+2025-04-12 16:36:06,275 - INFO - Embedding visualization saved
