@@ -135,9 +135,3 @@ The Logistic Regression model is trained on manually crafted synthetic samples s
 - [NLTK Reuters Corpus](https://www.nltk.org/nltk_data/)
 - [scikit-learn](https://scikit-learn.org/)
 
----
-
-## 🧑‍💻 Author
-
-**Mohammad Reza Mohammadi**  
-[GitHub](https://github.com/mohammadreza-mohammadi94)
