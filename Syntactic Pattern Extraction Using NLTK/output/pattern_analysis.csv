@@ -1,0 +1,6 @@
+Pattern,Count,Percentage (%),Economic Count,Economic Percentage (%),Sample Matches
+NOUN+NOUN,2711,34.11,40,1.48,"fulton county, city executive, executive committee"
+ADJ+NOUN,2590,32.59,33,1.27,"grand jury, primary election, term-end presentments"
+NOUN+VERB,1595,20.07,12,0.75,"jury said, election produced, irregularities took"
+VERB+NOUN,660,8.3,8,1.21,"took place, investigate reports, allen jr."
+VERB+ADV,392,4.93,1,0.26,"are well, follow generally, was also"
