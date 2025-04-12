@@ -1,0 +1,825 @@
+text,length,frequency,tfidf,is_entity,score
+Komatsu said,2,6,0.0,0,0.927
+Komatsu said,2,6,0.0,0,0.927
+Komatsu said,2,6,0.0,0,0.927
+Komatsu said,2,6,0.0,0,0.927
+Komatsu said,2,6,0.0,0,0.927
+Komatsu said,2,6,0.0,0,0.927
+the exchange,2,5,0.0,0,0.805
+the exchange,2,5,0.0,0,0.805
+the exchange,2,5,0.0,0,0.805
+the exchange,2,5,0.0,0,0.805
+the exchange,2,5,0.0,0,0.805
+Heiwa Sogo,2,3,0.0,1,0.783
+South Korea,2,3,0.0,1,0.783
+South Korea,2,3,0.0,1,0.783
+Heiwa Sogo,2,3,0.0,1,0.783
+Heiwa Sogo,2,3,0.0,1,0.783
+South Korea,2,3,0.0,1,0.783
+"leading Japanese electronics firm Matsushita Electric
+  Industrial Co Ltd",9,1,0.0,0,0.638
+officials said,2,4,0.0,0,0.572
+officials said,2,4,0.0,0,0.572
+they said,2,4,0.0,0,0.572
+they said,2,4,0.0,0,0.572
+they said,2,4,0.0,0,0.572
+they said,2,4,0.0,0,0.572
+He said,2,4,0.0,0,0.572
+It said,2,4,0.0,0,0.572
+It said,2,4,0.0,0,0.572
+It said,2,4,0.0,0,0.572
+He said,2,4,0.0,0,0.572
+officials said,2,4,0.0,0,0.572
+officials said,2,4,0.0,0,0.572
+He said,2,4,0.0,0,0.572
+He said,2,4,0.0,0,0.572
+It said,2,4,0.0,0,0.572
+other businessmen,2,1,0.7456691391759337,0,0.54
+Hong Kong,2,2,0.0,1,0.539
+Hong Kong,2,2,0.0,1,0.539
+two or three years,4,1,0.0,1,0.519
+the Business Economics Department,4,1,0.0,1,0.519
+the Heiwa Sogo Bank,4,1,0.0,1,0.519
+The Indonesian Commodity Exchange,4,1,0.0,1,0.519
+the Federal Reserve Board,4,1,0.0,1,0.519
+"Meiko Securities Co
+  Ltd",4,1,0.0,1,0.519
+"American
+  investment bank Goldman, Sachs and Co.
+      Sumitomo",8,1,0.0,0,0.511
+"Prime Minister
+  Yasuhiro Nakasone's avowed fiscal reform program",8,1,0.0,0,0.511
+"a local W.R. Grace and Co &lt;GRA>
+  unit",8,1,0.0,0,0.511
+the rise,2,1,0.6663163924747927,0,0.454
+"the Arbitration
+  Commission",3,1,0.0,1,0.39
+1.575 mln tonnes,3,1,0.0,1,0.39
+the China Daily,3,1,0.0,1,0.39
+Banca del Gottardo,3,1,0.0,1,0.39
+The Finance Ministry,3,1,0.0,1,0.39
+"7.1 billion
+  dlrs",3,1,0.0,1,0.39
+"the
+  first quarter",3,1,0.0,1,0.39
+the Northern Territory,3,1,0.0,1,0.39
+its first year,3,1,0.0,1,0.39
+New South Wales,3,1,0.0,1,0.39
+65.1 billion baht,3,1,0.0,1,0.39
+a few months,3,1,0.0,1,0.39
+the next decade,3,1,0.0,1,0.39
+the 21st century,3,1,0.0,1,0.39
+the Adelaide River,3,1,0.0,1,0.39
+"about 750,000 tonnes",3,1,0.0,1,0.39
+the first half,3,1,0.0,1,0.39
+"about 50,000 ounces",3,1,0.0,1,0.39
+"Kleinwort Benson Ltd
+  financial analyst Simon Smithson",7,1,0.0,0,0.383
+palm oil,2,3,0.0,0,0.303
+palm oil,2,3,0.0,0,0.303
+official said,2,3,0.0,0,0.303
+They said,2,3,0.0,0,0.303
+Nainggolan said,2,3,0.0,0,0.303
+he said,2,3,0.0,0,0.303
+Nainggolan said,2,3,0.0,0,0.303
+Nainggolan said,2,3,0.0,0,0.303
+They said,2,3,0.0,0,0.303
+he said,2,3,0.0,0,0.303
+official said,2,3,0.0,0,0.303
+he said,2,3,0.0,0,0.303
+official said,2,3,0.0,0,0.303
+palm oil,2,3,0.0,0,0.303
+They said,2,3,0.0,0,0.303
+CHINA DAILY,2,1,0.0,1,0.275
+"Tom
+  Murtha",2,1,0.0,1,0.275
+Hasrul Harahap,2,1,0.0,1,0.275
+"530,500
+  tonnes",2,1,0.0,1,0.275
+U.S. Products,2,1,0.0,1,0.275
+"52,500 tonnes",2,1,0.0,1,0.275
+"Mt.
+  Bundey",2,1,0.0,1,0.275
+"9,595 tonnes",2,1,0.0,1,0.275
+Port Kembla,2,1,0.0,1,0.275
+"three
+  years",2,1,0.0,1,0.275
+"Makoto
+  Kuroda",2,1,0.0,1,0.275
+U.S. Regulations,2,1,0.0,1,0.275
+Labour Council,2,1,0.0,1,0.275
+"the
+  Fed",2,1,0.0,1,0.275
+Lawrence Mills,2,1,0.0,1,0.275
+Paul Sheen,2,1,0.0,1,0.275
+Western Australia,2,1,0.0,1,0.275
+"tin 26
+  pct and canned pineapples",6,1,0.0,0,0.269
+"a new joint venture gold
+  mine",6,1,0.0,0,0.269
+SUMITOMO BANK AIMS AT QUICK RECOVERY,6,1,0.0,0,0.269
+the securities business,3,2,0.0,0,0.192
+the securities business,3,2,0.0,0,0.192
+"WHEAT PRICE
+  Food Department officials",5,1,0.0,0,0.18
+TO REVISE LONG-TERM ENERGY DEMAND,5,1,0.0,0,0.18
+"15.6 billion dlrs last
+  year",5,1,0.0,0,0.18
+the state's workers' compensation laws,5,1,0.0,0,0.18
+"a revised energy supply/demand
+  outlook",5,1,0.0,0,0.18
+between 450 and 550 dlrs,5,1,0.0,0,0.18
+"a senior
+  Taiwanese trade official",5,1,0.0,0,0.18
+the world's second largest producer,5,1,0.0,0,0.18
+Hong Kong's biggest export market,5,1,0.0,0,0.18
+"U.S.-JAPAN RIFT
+  Mounting trade friction",5,1,0.0,0,0.18
+the smaller bank's large debts,5,1,0.0,0,0.18
+"South Korea's trade promotion
+  association",5,1,0.0,0,0.18
+a less than 50 pct,5,1,0.0,0,0.18
+"such
+  a short-term commercial advantage",5,1,0.0,0,0.18
+"its Swiss universal bank
+  subsidiary",5,1,0.0,0,0.18
+The country's oil import bill,5,1,0.0,0,0.18
+"the
+  world's second largest producer",5,1,0.0,0,0.18
+an estimated 1.29 billion dlrs,5,1,0.0,0,0.18
+"a 12.5
+  pct limited partnership",5,1,0.0,0,0.18
+"its long-term energy supply/demand
+  outlook",5,1,0.0,0,0.18
+at least one new commodity,5,1,0.0,0,0.18
+"the Continental Grain Co
+  sale",5,1,0.0,0,0.18
+"a conventional leach
+  treatment plant",5,1,0.0,0,0.18
+traders said,2,2,0.0,0,0.124
+Reuters told,2,2,0.0,0,0.124
+analysts said,2,2,0.0,0,0.124
+The analysts,2,2,0.0,0,0.124
+Smithson said,2,2,0.0,0,0.124
+we want,2,2,0.0,0,0.124
+Harahap said,2,2,0.0,0,0.124
+Harahap said,2,2,0.0,0,0.124
+surplus had,2,2,0.0,0,0.124
+the merger,2,2,0.0,0,0.124
+The analysts,2,2,0.0,0,0.124
+The paper,2,2,0.0,0,0.124
+the bank,2,2,0.0,0,0.124
+The paper,2,2,0.0,0,0.124
+sources said,2,2,0.0,0,0.124
+the start,2,2,0.0,0,0.124
+sources said,2,2,0.0,0,0.124
+financial analysts,2,2,0.0,0,0.124
+the merger,2,2,0.0,0,0.124
+the start,2,2,0.0,0,0.124
+businessmen said,2,2,0.0,0,0.124
+the bank,2,2,0.0,0,0.124
+Button said,2,2,0.0,0,0.124
+businessmen said,2,2,0.0,0,0.124
+Button said,2,2,0.0,0,0.124
+financial analysts,2,2,0.0,0,0.124
+WMC said,2,2,0.0,0,0.124
+WMC said,2,2,0.0,0,0.124
+Reuters told,2,2,0.0,0,0.124
+surplus had,2,2,0.0,0,0.124
+traders said,2,2,0.0,0,0.124
+We want,2,2,0.0,0,0.124
+we want,2,2,0.0,0,0.124
+the tariffs,2,2,0.0,0,0.124
+analysts said,2,2,0.0,0,0.124
+We want,2,2,0.0,0,0.124
+Smithson said,2,2,0.0,0,0.124
+the tariffs,2,2,0.0,0,0.124
+CPO PRICE RISING SHARPLY,4,1,0.0,0,0.115
+a trade trade surplus,4,1,0.0,0,0.115
+Taiwan's foreign exchange reserves,4,1,0.0,0,0.115
+some Latin American states,4,1,0.0,0,0.115
+about 21 mln dlrs,4,1,0.0,0,0.115
+OPEN NEW GOLD MINE,4,1,0.0,0,0.115
+Japan's most profitable bank,4,1,0.0,0,0.115
+"around 23.9
+  trillion yen",4,1,0.0,0,0.115
+"a small, struggling bank",4,1,0.0,0,0.115
+a 27 pct increase,4,1,0.0,0,0.115
+the Moslem fasting month,4,1,0.0,0,0.115
+Thailand's improved business climate,4,1,0.0,0,0.115
+its most recent initiatives,4,1,0.0,0,0.115
+small and medium businesses,4,1,0.0,0,0.115
+its international market share,4,1,0.0,0,0.115
+the short-term Tokyo's loss,4,1,0.0,0,0.115
+recent palm oil purchases,4,1,0.0,0,0.115
+the latest exchange report,4,1,0.0,0,0.115
+the lucrative securities business,4,1,0.0,0,0.115
+"a comparable branch
+  network",4,1,0.0,0,0.115
+the Tokyo metropolitan area,4,1,0.0,0,0.115
+its rubber marketing effort,4,1,0.0,0,0.115
+"coffee and rubber
+  physicals",4,1,0.0,0,0.115
+an open outcry system,4,1,0.0,0,0.115
+a large supplementary budget,4,1,0.0,0,0.115
+seven and 12 pct,4,1,0.0,0,0.115
+"exchange chairman Paian
+  Nainggolan",4,1,0.0,0,0.115
+either crude palm oil,4,1,0.0,0,0.115
+"an estimated 27
+  pct",4,1,0.0,0,0.115
+domestic electric power demand,4,1,0.0,0,0.115
+Australia's two largest exports,4,1,0.0,0,0.115
+"a very
+  serious matter",4,1,0.0,0,0.115
+"also significant
+  U.S. Exports",4,1,0.0,0,0.115
+a five pct share,4,1,0.0,0,0.115
+a very short-term view,4,1,0.0,0,0.115
+"two or three
+  years",4,1,0.0,0,0.115
+the various port unions,4,1,0.0,0,0.115
+"such
+  domestic securities business",4,1,0.0,0,0.115
+10 billion dlrs,3,1,0.0,0,0.072
+major electronics firms,3,1,0.0,0,0.072
+"the
+  new taxes",3,1,0.0,0,0.072
+possible U.S. Retaliation,3,1,0.0,0,0.072
+53 billion dlrs,3,1,0.0,0,0.072
+Unofficial Japanese estimates,3,1,0.0,0,0.072
+Japan's alleged failure,3,1,0.0,0,0.072
+Sumitomo's branch network,3,1,0.0,0,0.072
+"only 1,905
+  tonnes",3,1,0.0,0,0.072
+184.3 mln rupiah,3,1,0.0,0,0.072
+a good start,3,1,0.0,0,0.072
+no further details,3,1,0.0,0,0.072
+"the
+  financial year",3,1,0.0,0,0.072
+the Japanese economy,3,1,0.0,0,0.072
+500 mln dlrs,3,1,0.0,0,0.072
+a lame duck,3,1,0.0,0,0.072
+a feasibility study,3,1,0.0,0,0.072
+Japan's deputy minister,3,1,0.0,0,0.072
+"an emergency
+  measure",3,1,0.0,0,0.072
+"China's grain
+  stocks",3,1,0.0,0,0.072
+China's fruit output,3,1,0.0,0,0.072
+bad preservation methods,3,1,0.0,0,0.072
+a national programme,3,1,0.0,0,0.072
+the open-pit mine,3,1,0.0,0,0.072
+lower oil prices,3,1,0.0,0,0.072
+high export growth,3,1,0.0,0,0.072
+6.87 billion rupiah,3,1,0.0,0,0.072
+"Annual ore
+  capacity",3,1,0.0,0,0.072
+the infant exchange,3,1,0.0,0,0.072
+PCT GRAIN STOCKS,3,1,0.0,0,0.072
+the Goodall project,3,1,0.0,0,0.072
+"60.6
+  billion baht",3,1,0.0,0,0.072
+a tonne C,3,1,0.0,0,0.072
+to 20 delivery,3,1,0.0,0,0.072
+first quarter exports,3,1,0.0,0,0.072
+many key commodities,3,1,0.0,0,0.072
+profitable government bond,3,1,0.0,0,0.072
+"energy
+  supply sources",3,1,0.0,0,0.072
+Japan's electric power,3,1,0.0,0,0.072
+the fiscal year,3,1,0.0,0,0.072
+a kilowatt/hour basis,3,1,0.0,0,0.072
+a forecast downtrend,3,1,0.0,0,0.072
+"Japanese
+  energy demand",3,1,0.0,0,0.072
+"primary energy
+  supplies",3,1,0.0,0,0.072
+The fledgling exchange,3,1,0.0,0,0.072
+550 mln kilolitres,3,1,0.0,0,0.072
+a telephone interview,3,1,0.0,0,0.072
+refined palm oil,3,1,0.0,0,0.072
+U.S. Securities business,3,1,0.0,0,0.072
+The trade ministry,3,1,0.0,0,0.072
+Robusta coffee grades,3,1,0.0,0,0.072
+Physical rubber trading,3,1,0.0,0,0.072
+the NSW ports,3,1,0.0,0,0.072
+The shipping sources,3,1,0.0,0,0.072
+nearly 20 vessels,3,1,0.0,0,0.072
+The industrial action,3,1,0.0,0,0.072
+a pay claim,3,1,0.0,0,0.072
+a separate dispute,3,1,0.0,0,0.072
+the whole purpose,3,1,0.0,0,0.072
+The pay dispute,3,1,0.0,0,0.072
+further U.S. Pressure,3,1,0.0,0,0.072
+major trading partners,3,1,0.0,0,0.072
+The Australian government,3,1,0.0,0,0.072
+new business chances,3,1,0.0,0,0.072
+the near future,3,1,0.0,0,0.072
+a short time,3,1,0.0,0,0.072
+"the
+  trade stand-off",3,1,0.0,0,0.072
+U.S.-Japanese diplomatic manoeuvres,3,1,0.0,0,0.072
+whose chief exports,3,1,0.0,0,0.072
+a trade surplus,3,1,0.0,0,0.072
+4.9 billion dlrs,3,1,0.0,0,0.072
+"European
+  universal banks",3,1,0.0,0,0.072
+U.S. Commercial banks,3,1,0.0,0,0.072
+a similar decision,3,1,0.0,0,0.072
+"some electronics
+  manufacturers",3,1,0.0,0,0.072
+over 30 pct,3,1,0.0,0,0.072
+"a temporary
+  shortage",3,1,0.0,0,0.072
+"central bank
+  figures",3,1,0.0,0,0.072
+liquefied natural gas,3,1,0.0,0,0.072
+a stock analyst,3,1,0.0,0,0.072
+the Tokyo office,3,1,0.0,0,0.072
+the trade dispute,3,1,0.0,0,0.072
+domestically produced exports,3,1,0.0,0,0.072
+A senior official,3,1,0.0,0,0.072
+"a similar
+  decision",3,1,0.0,0,0.072
+a Gottardo subsidiary,3,1,0.0,0,0.072
+other city banks,3,1,0.0,0,0.072
+the first quarter,3,1,0.0,0,0.072
+THAI TRADE DEFICIT,3,1,0.0,0,0.072
+Thailand's trade deficit,3,1,0.0,0,0.072
+a tonne CIF,3,1,0.0,0,0.072
+"4.5
+  billion baht",3,1,0.0,0,0.072
+better European demand,3,1,0.0,0,0.072
+a tonne FOB,3,1,0.0,0,0.072
+Japanese electronics goods,3,1,0.0,0,0.072
+crude palm oil,3,1,0.0,0,0.072
+300 mln dlrs,3,1,0.0,0,0.072
+"far-reaching economic
+  damage",3,1,0.0,0,0.072
+"Asia's exporting
+  nations",3,1,0.0,0,0.072
+the complete erosion,3,1,0.0,0,0.072
+we see,2,1,0.0,0,0.044
+the row,2,1,0.0,0,0.044
+Reuter correspondents,2,1,0.0,0,0.044
+Asian capitals,2,1,0.0,0,0.044
+protectionist sentiment,2,1,0.0,0,0.044
+American imports,2,1,0.0,0,0.044
+their products,2,1,0.0,0,0.044
+some exporters,2,1,0.0,0,0.044
+the conflict,2,1,0.0,0,0.044
+he hopes,2,1,0.0,0,0.044
+walls crumbling,2,1,0.0,0,0.044
+Article separates,2,1,0.0,0,0.044
+any length,2,1,0.0,0,0.044
+a spokesman,2,1,0.0,0,0.044
+the impact,2,1,0.0,0,0.044
+world markets,2,1,0.0,0,0.044
+a pact,2,1,0.0,0,0.044
+years wait,2,1,0.0,0,0.044
+We have,2,1,0.0,0,0.044
+things do,2,1,0.0,0,0.044
+we do,2,1,0.0,0,0.044
+Regulations change,2,1,0.0,0,0.044
+move pay,2,1,0.0,0,0.044
+analyst said,2,1,0.0,0,0.044
+Sumitomo expected,2,1,0.0,0,0.044
+18 pct,2,1,0.0,0,0.044
+"whose
+  earnings",2,1,0.0,0,0.044
+"lower
+  earnings",2,1,0.0,0,0.044
+Export growth,2,1,0.0,0,0.044
+The department,2,1,0.0,0,0.044
+semi-finished products,2,1,0.0,0,0.044
+raw materials,2,1,0.0,0,0.044
+pct maize,2,1,0.0,0,0.044
+pct declined,2,1,0.0,0,0.044
+earnings declined,2,1,0.0,0,0.044
+exports expanded,2,1,0.0,0,0.044
+department said,2,1,0.0,0,0.044
+bill fell,2,1,0.0,0,0.044
+climate resulted,2,1,0.0,0,0.044
+imports rose,2,1,0.0,0,0.044
+Department said,2,1,0.0,0,0.044
+FIRST QUARTER,2,1,0.0,0,0.044
+they noted,2,1,0.0,0,0.044
+pct supplying,2,1,0.0,0,0.044
+bulk provided,2,1,0.0,0,0.044
+energy provided,2,1,0.0,0,0.044
+breakdown review,2,1,0.0,0,0.044
+MITI review,2,1,0.0,0,0.044
+its exports,2,1,0.0,0,0.044
+Indonesian reporters,2,1,0.0,0,0.044
+"tree
+  crops",2,1,0.0,0,0.044
+junior minister,2,1,0.0,0,0.044
+Malaysian output,2,1,0.0,0,0.044
+a fall,2,1,0.0,0,0.044
+growth registering,2,1,0.0,0,0.044
+45 pct,2,1,0.0,0,0.044
+66 pct,2,1,0.0,0,0.044
+supplies ensure,2,1,0.0,0,0.044
+oil import,2,1,0.0,0,0.044
+share increase,2,1,0.0,0,0.044
+it increase,2,1,0.0,0,0.044
+purchases making,2,1,0.0,0,0.044
+exports maintain,2,1,0.0,0,0.044
+Indonesia maintain,2,1,0.0,0,0.044
+reporters told,2,1,0.0,0,0.044
+Harahap told,2,1,0.0,0,0.044
+oil rise,2,1,0.0,0,0.044
+Indonesia expects,2,1,0.0,0,0.044
+SHARPLY SEES,2,1,0.0,0,0.044
+INDONESIA SEES,2,1,0.0,0,0.044
+Indonesian exports,2,1,0.0,0,0.044
+export markets,2,1,0.0,0,0.044
+Janunary/March imports,2,1,0.0,0,0.044
+MITI planning,2,1,0.0,0,0.044
+emergence follows,2,1,0.0,0,0.044
+decision follows,2,1,0.0,0,0.044
+projection lower,2,1,0.0,0,0.044
+downtrend meet,2,1,0.0,0,0.044
+outlook revise,2,1,0.0,0,0.044
+Ministry DOWNWARDS,2,1,0.0,0,0.044
+DEMAND DOWNWARDS,2,1,0.0,0,0.044
+JAPAN DOWNWARDS,2,1,0.0,0,0.044
+21 pct,2,1,0.0,0,0.044
+23 pct,2,1,0.0,0,0.044
+NSW ports,2,1,0.0,0,0.044
+foreign-flag ships,2,1,0.0,0,0.044
+their ban,2,1,0.0,0,0.044
+markets lose,2,1,0.0,0,0.044
+shortage cover,2,1,0.0,0,0.044
+crews lifted,2,1,0.0,0,0.044
+shipping movements,2,1,0.0,0,0.044
+what effect,2,1,0.0,0,0.044
+the disruption,2,1,0.0,0,0.044
+container movements,2,1,0.0,0,0.044
+the ports,2,1,0.0,0,0.044
+Cargo handling,2,1,0.0,0,0.044
+each shift,2,1,0.0,0,0.044
+the week,2,1,0.0,0,0.044
+"the
+  ports",2,1,0.0,0,0.044
+cargo handling,2,1,0.0,0,0.044
+a hearing,2,1,0.0,0,0.044
+the movement,2,1,0.0,0,0.044
+The ban,2,1,0.0,0,0.044
+shipping sources,2,1,0.0,0,0.044
+outlook work,2,1,0.0,0,0.044
+disruption began,2,1,0.0,0,0.044
+dispute went,2,1,0.0,0,0.044
+movement prevented,2,1,0.0,0,0.044
+ban prevented,2,1,0.0,0,0.044
+the bulk,2,1,0.0,0,0.044
+Nuclear energy,2,1,0.0,0,0.044
+natural gas,2,1,0.0,0,0.044
+the breakdown,2,1,0.0,0,0.044
+the officials,2,1,0.0,0,0.044
+committee meetings,2,1,0.0,0,0.044
+a decline,2,1,0.0,0,0.044
+the yen,2,1,0.0,0,0.044
+the value,2,1,0.0,0,0.044
+containers carrying,2,1,0.0,0,0.044
+ban lifted,2,1,0.0,0,0.044
+Victoria lifted,2,1,0.0,0,0.044
+effect have,2,1,0.0,0,0.044
+Japanese industry,2,1,0.0,0,0.044
+structural changes,2,1,0.0,0,0.044
+the emergence,2,1,0.0,0,0.044
+The decision,2,1,0.0,0,0.044
+"600
+  mln",2,1,0.0,0,0.044
+the year,2,1,0.0,0,0.044
+the projection,2,1,0.0,0,0.044
+ministry officials,2,1,0.0,0,0.044
+details gave,2,1,0.0,0,0.044
+disruption go,2,1,0.0,0,0.044
+they say,2,1,0.0,0,0.044
+movements affected,2,1,0.0,0,0.044
+it taking,2,1,0.0,0,0.044
+unions appear,2,1,0.0,0,0.044
+changes protest,2,1,0.0,0,0.044
+greater production,2,1,0.0,0,0.044
+Indonesia's elections,2,1,0.0,0,0.044
+"No
+  decisions",2,1,0.0,0,0.044
+"one
+  official",2,1,0.0,0,0.044
+futures trading,2,1,0.0,0,0.044
+"the
+  introduction",2,1,0.0,0,0.044
+exchange board,2,1,0.0,0,0.044
+exchange officials,2,1,0.0,0,0.044
+prompt delivery,2,1,0.0,0,0.044
+Rubber contracts,2,1,0.0,0,0.044
+"a
+  mistake",2,1,0.0,0,0.044
+Several factors,2,1,0.0,0,0.044
+"no
+  decision",2,1,0.0,0,0.044
+the question,2,1,0.0,0,0.044
+sawn timber,2,1,0.0,0,0.044
+it have,2,1,0.0,0,0.044
+the waste,2,1,0.0,0,0.044
+its vegetables,2,1,0.0,0,0.044
+25 pct,2,1,0.0,0,0.044
+vermin consume,2,1,0.0,0,0.044
+seven cities,2,1,0.0,0,0.044
+paper gave,2,1,0.0,0,0.044
+production calling,2,1,0.0,0,0.044
+waste reduce,2,1,0.0,0,0.044
+programme launched,2,1,0.0,0,0.044
+government launched,2,1,0.0,0,0.044
+waste blamed,2,1,0.0,0,0.044
+paper blamed,2,1,0.0,0,0.044
+Daily said,2,1,0.0,0,0.044
+consume showed,2,1,0.0,0,0.044
+EAT showed,2,1,0.0,0,0.044
+DAILY SAYS,2,1,0.0,0,0.044
+physicals trades,2,1,0.0,0,0.044
+exchange trades,2,1,0.0,0,0.044
+He told,2,1,0.0,0,0.044
+EXCHANGE EXPAND,2,1,0.0,0,0.044
+44 traders,2,1,0.0,0,0.044
+nine brokers,2,1,0.0,0,0.044
+Total membership,2,1,0.0,0,0.044
+381 lots,2,1,0.0,0,0.044
+a delegation,2,1,0.0,0,0.044
+direct use,2,1,0.0,0,0.044
+overseas interest,2,1,0.0,0,0.044
+natural rubber,2,1,0.0,0,0.044
+improved technology,2,1,0.0,0,0.044
+the government,2,1,0.0,0,0.044
+inadequate storage,2,1,0.0,0,0.044
+we make,2,1,0.0,0,0.044
+us move,2,1,0.0,0,0.044
+19 provinces,2,1,0.0,0,0.044
+A survey,2,1,0.0,0,0.044
+dispute end,2,1,0.0,0,0.044
+economy stimulate,2,1,0.0,0,0.044
+They call,2,1,0.0,0,0.044
+budget include,2,1,0.0,0,0.044
+measures include,2,1,0.0,0,0.044
+economy boost,2,1,0.0,0,0.044
+package outlined,2,1,0.0,0,0.044
+Party outlined,2,1,0.0,0,0.044
+off solve,2,1,0.0,0,0.044
+exports centred,2,1,0.0,0,0.044
+concerns centred,2,1,0.0,0,0.044
+factors make,2,1,0.0,0,0.044
+Europe visit,2,1,0.0,0,0.044
+delegation visit,2,1,0.0,0,0.044
+use encourage,2,1,0.0,0,0.044
+contacts building,2,1,0.0,0,0.044
+interest boost,2,1,0.0,0,0.044
+exchange trying,2,1,0.0,0,0.044
+this help,2,1,0.0,0,0.044
+development help,2,1,0.0,0,0.044
+he hoped,2,1,0.0,0,0.044
+effort expand,2,1,0.0,0,0.044
+Indonesia expand,2,1,0.0,0,0.044
+Saleh said,2,1,0.0,0,0.044
+introduction considering,2,1,0.0,0,0.044
+ministry considering,2,1,0.0,0,0.044
+coffee added,2,1,0.0,0,0.044
+mistake make,2,1,0.0,0,0.044
+sale approved,2,1,0.0,0,0.044
+Department approved,2,1,0.0,0,0.044
+APPROVAL GETS,2,1,0.0,0,0.044
+LANKA GETS,2,1,0.0,0,0.044
+the shipment,2,1,0.0,0,0.044
+soft wheat,2,1,0.0,0,0.044
+USDA APPROVAL,2,1,0.0,0,0.044
+Trading amounted,2,1,0.0,0,0.044
+report said,2,1,0.0,0,0.044
+rupiah delivered,2,1,0.0,0,0.044
+tonnes totalled,2,1,0.0,0,0.044
+Transactions totalled,2,1,0.0,0,0.044
+start made,2,1,0.0,0,0.044
+exchange made,2,1,0.0,0,0.044
+Officials say,2,1,0.0,0,0.044
+participation encourage,2,1,0.0,0,0.044
+60 pct,2,1,0.0,0,0.044
+The mine,2,1,0.0,0,0.044
+a cost,2,1,0.0,0,0.044
+WESTERN MINING,2,1,0.0,0,0.044
+outcome awaiting,2,1,0.0,0,0.044
+government awaiting,2,1,0.0,0,0.044
+trade restraining,2,1,0.0,0,0.044
+imports prevent,2,1,0.0,0,0.044
+Mills said,2,1,0.0,0,0.044
+imports block,2,1,0.0,0,0.044
+view share,2,1,0.0,0,0.044
+manufacturers share,2,1,0.0,0,0.044
+semiconductors selling,2,1,0.0,0,0.044
+Japan selling,2,1,0.0,0,0.044
+newspapers alleged,2,1,0.0,0,0.044
+sales expand,2,1,0.0,0,0.044
+MINING said,2,1,0.0,0,0.044
+producers allow,2,1,0.0,0,0.044
+curbs allow,2,1,0.0,0,0.044
+officers said,2,1,0.0,0,0.044
+Korea had,2,1,0.0,0,0.044
+dispute lead,2,1,0.0,0,0.044
+Sheen said,2,1,0.0,0,0.044
+problems defuse,2,1,0.0,0,0.044
+imports allow,2,1,0.0,0,0.044
+tariffs cut,2,1,0.0,0,0.044
+barriers remove,2,1,0.0,0,0.044
+markets open,2,1,0.0,0,0.044
+We open,2,1,0.0,0,0.044
+reserves swell,2,1,0.0,0,0.044
+a statement,2,1,0.0,0,0.044
+40 pct,2,1,0.0,0,0.044
+impact put,2,1,0.0,0,0.044
+estimates put,2,1,0.0,0,0.044
+an interview,2,1,0.0,0,0.044
+first place,2,1,0.0,0,0.044
+"its
+  position",2,1,0.0,0,0.044
+his bank,2,1,0.0,0,0.044
+the link-up,2,1,0.0,0,0.044
+unrecoverable loans,2,1,0.0,0,0.044
+its merger,2,1,0.0,0,0.044
+a result,2,1,0.0,0,0.044
+its status,2,1,0.0,0,0.044
+ounces produce,2,1,0.0,0,0.044
+mine said,2,1,0.0,0,0.044
+pct owned,2,1,0.0,0,0.044
+mine establish,2,1,0.0,0,0.044
+it establish,2,1,0.0,0,0.044
+domestic competition,2,1,0.0,0,0.044
+more cost,2,1,0.0,0,0.044
+the gamble,2,1,0.0,0,0.044
+Sumitomo's profitability,2,1,0.0,0,0.044
+surplus swell,2,1,0.0,0,0.044
+Taiwan had,2,1,0.0,0,0.044
+who asked,2,1,0.0,0,0.044
+it serves,2,1,0.0,0,0.044
+Murtha said,2,1,0.0,0,0.044
+erosion mean,2,1,0.0,0,0.044
+it mean,2,1,0.0,0,0.044
+tariffs remain,2,1,0.0,0,0.044
+spokesman said,2,1,0.0,0,0.044
+business do,2,1,0.0,0,0.044
+exports halt,2,1,0.0,0,0.044
+they halt,2,1,0.0,0,0.044
+dlrs impose,2,1,0.0,0,0.044
+it impose,2,1,0.0,0,0.044
+U.S. said,2,1,0.0,0,0.044
+them hurt,2,1,0.0,0,0.044
+conflict hurt,2,1,0.0,0,0.044
+exporters said,2,1,0.0,0,0.044
+sentiment boost,2,1,0.0,0,0.044
+Move boost,2,1,0.0,0,0.044
+correspondents told,2,1,0.0,0,0.044
+They told,2,1,0.0,0,0.044
+damage inflict,2,1,0.0,0,0.044
+row inflict,2,1,0.0,0,0.044
+fears raised,2,1,0.0,0,0.044
+Japan raised,2,1,0.0,0,0.044
+those moves,2,1,0.0,0,0.044
+"the
+  wisdom",2,1,0.0,0,0.044
+EXPORTERS FEAR,2,1,0.0,0,0.044
+the dispute,2,1,0.0,0,0.044
+"an
+  effort",2,1,0.0,0,0.044
+the economy,2,1,0.0,0,0.044
+stepped-up spending,2,1,0.0,0,0.044
+public works,2,1,0.0,0,0.044
+The measures,2,1,0.0,0,0.044
+The tie-up,2,1,0.0,0,0.044
+the business,2,1,0.0,0,0.044
+the time,2,1,0.0,0,0.044
+a share,2,1,0.0,0,0.044
+its move,2,1,0.0,0,0.044
+Sumitomo's problems,2,1,0.0,0,0.044
+their hands,2,1,0.0,0,0.044
+bold moves,2,1,0.0,0,0.044
+semiconductors sell,2,1,0.0,0,0.044
+Australia's concerns,2,1,0.0,0,0.044
+"two
+  countries",2,1,0.0,0,0.044
+trade relations,2,1,0.0,0,0.044
+This kind,2,1,0.0,0,0.044
+"trade
+  talks",2,1,0.0,0,0.044
+the outcome,2,1,0.0,0,0.044
+"new
+  opportunities",2,1,0.0,0,0.044
+further deregulation,2,1,0.0,0,0.044
+the walls,2,1,0.0,0,0.044
+investment banking,2,1,0.0,0,0.044
+"Japan's
+  version",2,1,0.0,0,0.044
+possible routes,2,1,0.0,0,0.044
+various things,2,1,0.0,0,0.044
+the move,2,1,0.0,0,0.044
+one analyst,2,1,0.0,0,0.044
+DAMAGE FEAR,2,1,0.0,0,0.044
+"tough
+  curbs",2,1,0.0,0,0.044
+trade officers,2,1,0.0,0,0.044
+textile exporters,2,1,0.0,0,0.044
+the disadvantage,2,1,0.0,0,0.044
+other sources,2,1,0.0,0,0.044
+that view,2,1,0.0,0,0.044
+securities subsidiaries,2,1,0.0,0,0.044
+such changes,2,1,0.0,0,0.044
+the kind,2,1,0.0,0,0.044
+"trust
+  bank",2,1,0.0,0,0.044
+some cases,2,1,0.0,0,0.044
+"some
+  cases",2,1,0.0,0,0.044
+economic measures,2,1,0.0,0,0.044
+a package,2,1,0.0,0,0.044
+that country,2,1,0.0,0,0.044
+profitability reduce,2,1,0.0,0,0.044
+merger reduce,2,1,0.0,0,0.044
+position regain,2,1,0.0,0,0.044
+bank regain,2,1,0.0,0,0.044
+Komatsu told,2,1,0.0,0,0.044
+status lose,2,1,0.0,0,0.044
+"the
+  strategy",2,1,0.0,0,0.044
+a question,2,1,0.0,0,0.044
+its strategies,2,1,0.0,0,0.044
+"the
+  merger",2,1,0.0,0,0.044
+a lot,2,1,0.0,0,0.044
+big business,2,1,0.0,0,0.044
+the parent,2,1,0.0,0,0.044
+their sales,2,1,0.0,0,0.044
+third countries,2,1,0.0,0,0.044
+hard-hit producers,2,1,0.0,0,0.044
+analysts agreed,2,1,0.0,0,0.044
+network creating,2,1,0.0,0,0.044
+Others argue,2,1,0.0,0,0.044
+much paid,2,1,0.0,0,0.044
+Sumitomo paid,2,1,0.0,0,0.044
+import tariffs,2,1,0.0,0,0.044
+trade barriers,2,1,0.0,0,0.044
+our markets,2,1,0.0,0,0.044
+The surplus,2,1,0.0,0,0.044
+95 pct,2,1,0.0,0,0.044
+a warning,2,1,0.0,0,0.044
+the seriousness,2,1,0.0,0,0.044
+Some said,2,1,0.0,0,0.044
+gamble pay,2,1,0.0,0,0.044
+network expand,2,1,0.0,0,0.044
+it expand,2,1,0.0,0,0.044
+they do,2,1,0.0,0,0.044
+business increase,2,1,0.0,0,0.044
+personnel exchange,2,1,0.0,0,0.044
+them forbidden,2,1,0.0,0,0.044
+Board forbidden,2,1,0.0,0,0.044
+dlrs pay,2,1,0.0,0,0.044
+share taking,2,1,0.0,0,0.044
+business enter,2,1,0.0,0,0.044
+limits agreed,2,1,0.0,0,0.044
+everything put,2,1,0.0,0,0.044
+moves made,2,1,0.0,0,0.044
+They made,2,1,0.0,0,0.044
+wisdom questioned,2,1,0.0,0,0.044
+they questioned,2,1,0.0,0,0.044
+business entered,2,1,0.0,0,0.044
+It expanded,2,1,0.0,0,0.044
+the long-run,2,1,0.0,0,0.044
+ASIAN EXPORTERS,2,1,0.0,0,0.044
+Sogo ailing,2,1,0.0,0,0.044
+initiatives digesting,2,1,0.0,0,0.044
+lot devote,2,1,0.0,0,0.044
+Sumitomo have,2,1,0.0,0,0.044
+it holds,2,1,0.0,0,0.044
+relations strengthening,2,1,0.0,0,0.044
+bond dealing,2,1,0.0,0,0.044
+Sumitomo focus,2,1,0.0,0,0.044
+changes occur,2,1,0.0,0,0.044
+bank related,2,1,0.0,0,0.044
+chances find,2,1,0.0,0,0.044
+We need,2,1,0.0,0,0.044
+opportunities create,2,1,0.0,0,0.044
+deregulation create,2,1,0.0,0,0.044
+deficit widened,2,1,0.0,0,0.044
+57 pct,2,1,0.0,0,0.044
+64 pct,2,1,0.0,0,0.044
+seven pct,2,1,0.0,0,0.044
+he added,2,1,0.0,0,0.044
+demand disappearing,2,1,0.0,0,0.044
+lending expand,2,1,0.0,0,0.044
+Sumitomo pushing,2,1,0.0,0,0.044
+We expect,2,1,0.0,0,0.044
+waves make,2,1,0.0,0,0.044
+pct holds,2,1,0.0,0,0.044
+parent holds,2,1,0.0,0,0.044
+licences grant,2,1,0.0,0,0.044
+business entering,2,1,0.0,0,0.044
+share holds,2,1,0.0,0,0.044
+their gain,2,1,0.0,0,0.044
+-cost,1,1,0.0,0,0.026
+end-users,1,1,0.0,0,0.026
