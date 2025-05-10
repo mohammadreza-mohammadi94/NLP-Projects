@@ -1,5 +1,4 @@
 # 📚 Natural Language Processing (NLP) Projects
-
 Welcome to the **NLP Projects** repository! This space showcases various projects focused on **Natural Language Processing (NLP)** techniques and applications, demonstrating the power of text data analysis and machine learning.
 
 ## 🚀 About This Repository
